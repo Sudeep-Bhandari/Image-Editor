@@ -15,7 +15,7 @@ A simple, lightweight Image Editor built using **HTML**, **CSS**, and **JavaScri
 
 ## 🌐 Live Demo
 
-[Click here to try the editor online](#) *(Add your deployed link here)*
+[Click here to try the editor online](#) *((http://127.0.0.1:5500/30.Photo%20Editor/Image%20Editor%20JavaScript/index.html))*
 
 ## 🛠️ Tech Stack
 
